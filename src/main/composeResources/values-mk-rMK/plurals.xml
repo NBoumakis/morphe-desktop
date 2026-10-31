@@ -1,7 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="home_header_sources_failed">
+        <item quantity="one">Не успеа да се вчита %1$d извор за закрпа. Ќе се користат оние што се вчитаа успешно</item>
+        <item quantity="other">Не успеа да се вчитаат %1$d извори за закрпа. Ќе се користат оние што се вчитаа успешно</item>
+    </plurals>
+    <plurals name="home_banner_update_available">
+        <item quantity="one">Достапен е ажурирање за %1$d закрпена апликација</item>
+        <item quantity="other">Достапни се ажурирања за %1$d закрпени апликации</item>
+    </plurals>
+    <plurals name="settings_runtime_logs_saved_success">
+        <item quantity="one">Зачувана е %1$d линија во %2$s</item>
+        <item quantity="other">Зачувани се %1$d линии во %2$s</item>
+    </plurals>
+    <plurals name="count_sources">
+        <item quantity="one">%1$d извор</item>
+        <item quantity="other">%1$d извори</item>
+    </plurals>
+    <plurals name="quick_patch_ready_patches_applied_summary">
+        <item quantity="one">Ќе се примени %1$d закрпа</item>
+        <item quantity="other">%1$d закрпи ќе бидат применети</item>
+    </plurals>
+    <plurals name="quick_patch_ready_patches_excluded">
+        <item quantity="one">%1$d исклучен</item>
+        <item quantity="other">%1$d исклучени</item>
+    </plurals>
+    <plurals name="quick_patch_ready_patches_enabled">
+        <item quantity="one">%1$d овозможен</item>
+        <item quantity="other">%1$d овозможени</item>
+    </plurals>
+    <plurals name="quick_patch_ready_patches_disabled">
+        <item quantity="one">%1$d оневозможен</item>
+        <item quantity="other">%1$d оневозможени</item>
+    </plurals>
+    <plurals name="licenses_dialog_footer_count">
+        <item quantity="one">%1$d библиотека</item>
+        <item quantity="other">%1$d библиотеки</item>
+    </plurals>
+    <plurals name="patch_selection_selected_count">
+        <item quantity="one">%1$d од %2$d избрани</item>
+        <item quantity="other">%1$d од %2$d избрани</item>
+    </plurals>
     <plurals name="patch_selection_group_patch_count">
         <item quantity="one">%1$d поправка</item>
         <item quantity="other">%1$d поправки</item>
+    </plurals>
+    <plurals name="settings_app_cards_override_count">
+        <item quantity="one">%1$d картичка го надвомува ова</item>
+        <item quantity="other">%1$d картички го надвомуваат ова</item>
     </plurals>
 </resources>

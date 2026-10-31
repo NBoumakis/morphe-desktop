@@ -450,7 +450,7 @@
     <string name="patching_banner_no">Tidak</string>
     <string name="patching_banner_desktop">Desktop</string>
     <string name="patching_banner_patcher">Penambal</string>
-    <string name="patching_banner_runtime">Runtime</string>
+    <string name="patching_banner_runtime">Waktu proses</string>
     <string name="patching_banner_native_libs">Lib native</string>
     <string name="patching_banner_os">OS</string>
     <string name="patching_banner_arch">Arsitektur</string>
@@ -796,7 +796,7 @@
     <string name="settings_cert_warning_alias_not_found">Alias \"%1$s\" tidak ditemukan di keystore</string>
     <string name="settings_cert_warning_key_password_incorrect">Kata sandi kunci salah untuk alias \"%1$s\"</string>
     <!-- Settings - Runtime Logs -->
-    <string name="settings_runtime_logs_title">Log runtime aplikasi hasil tambalan</string>
+    <string name="settings_runtime_logs_title">Log waktu proses aplikasi hasil tambalan</string>
     <string name="settings_runtime_logs_desc">Rekam log dari ponsel Anda setelah aplikasi yang ditambal crash atau bermasalah. Bersihkan sebelum mereproduksi bug, lalu simpan output yang difilter untuk dilampirkan ke laporan bug</string>
     <string name="settings_runtime_logs_device_info">Perangkat: %1$s</string>
     <string name="settings_runtime_logs_no_device">Tidak ada perangkat terhubung. Colokkan ponsel Anda dengan USB debugging diaktifkan</string>
